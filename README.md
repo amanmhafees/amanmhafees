@@ -34,7 +34,7 @@
 - 📲 Flutter integration with real-time databases  
 - 🤖 Tesseract, ML Kit, YOLO & other vision frameworks
 
-
+---
 
 ## 🛠️ Featured Projects
 
@@ -49,11 +49,11 @@
 
 ## 📊 GitHub Stats
 
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanmhafees&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmhafees&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanmhafees&theme=tokyonight)
-![Trophies](https://github-profile-trophy.vercel.app/?username=amanmhafees&theme=radical)
-![Visitor Count](https://komarev.com/ghpvc/?username=amanmhafees&color=blue)
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amanmhafees&show_icons=true&theme=midnight-purple)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmhafees&layout=compact&theme=rose_pine)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amanmhafees&theme=midnight-purple)
+![Trophies](https://github-profile-trophy.vercel.app/?username=amanmhafees&theme=discord_old_blurple)
+![Visitor Count](https://komarev.com/ghpvc/?username=amanmhafees&color=green)
 
 ---
 
